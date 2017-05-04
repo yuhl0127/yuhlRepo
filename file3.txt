@@ -2,3 +2,4 @@ file3
 I am test branch merge.
 aaa
 branch strategy
+bbb
